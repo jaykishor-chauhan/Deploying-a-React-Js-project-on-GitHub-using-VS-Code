@@ -1,7 +1,14 @@
 # Deploying-a-React-Js-project-on-GitHub-using-VS-Code
 
 
-## 1. Set Up Git in VS Code
+## 1. Installing Git in your system
+
+#### 1.1 Click on `Download Git` to download the Git on your system. if you have already downloaded ignore it.
+#### [Download Git](https://git-scm.com/downloads) 
+
+#### 1.2 After downloading, Install `Git` in your system.
+
+#### 1.3 Set Up Git in VS Code
 #### Ensure Git is installed and configured on your system to chack git version. <br />
       git --version
 
