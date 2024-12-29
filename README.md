@@ -36,8 +36,8 @@
     git branch -M main
     git push -u origin main
 
-## 7. Now, modify your package .json files by adding key-value pair mentioned below:
-#### (1) open package.json file and add homepage in begining of firsst curly bracket:
+# 7. Now, modify your package .json files by adding key-value pair mentioned below or You can refer to the images:
+#### (1) open package.json file and add homepage befor name:
         "homepage":"http://(GitHub user name).github.io/(repo. name)"
         
 ##### [(replace GitHub user name with your own GitHub user name and repo. name with your Repository name.)]
@@ -45,5 +45,9 @@
         "predeploy": "npm run build",
         "deploy": "gh-pages -d build"
 
-## And finally, deploy your project using:
+![Image Description](https://drive.google.com/uc?export=view&id=1wmkk1M0IXOpBV_Fb8nDECimmnLGEwaJI)
+
+
+## And finally, built and deploy your project using:
+    npm run built
     npm run deploy 
