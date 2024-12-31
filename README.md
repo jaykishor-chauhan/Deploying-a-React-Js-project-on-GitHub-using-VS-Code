@@ -49,5 +49,5 @@
 
 
 ## And finally, built and deploy your project using:
-    npm run built
+    npm run build
     npm run deploy 
